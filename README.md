@@ -26,7 +26,7 @@ This project provides a set of tools to enrich datasets using the Precisely API.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/rishikax/Precisely.git
+   git clone https://github.com/Miru2205/Precisely
    cd Precisely
    ```
 
